@@ -1,3 +1,28 @@
+# Theme & Grundlegendes
 theme: jekyll-theme-minimal
 title: Lennart's Homepage
-description: Bookmark this to keep an eye on my project updates!
+description: Persönliche Homepage, Kontakt & Open-Source-Projekte
+logo: /bild_192x192.png
+
+# Sprache & SEO-Details
+lang: de-DE
+author:
+  name: Lennart Martens
+  email: lennart.martens@magenta.de
+
+# GitHub-Verknüpfung (steuert die Projekt-Buttons in der Seitenleiste)
+github:
+  is_project_page: false
+  owner_url: https://github.com/lennart1978
+  owner_name: Lennart Martens
+
+# Optional: Google Analytics (bei Bedarf auskommentieren und ID eintragen)
+# google_analytics: G-XXXXXXXXXX
+
+# Plugins (von GitHub Pages standardmäßig unterstützt)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown-Engine
+markdown: kramdown

@@ -1,1 +1,40 @@
 
+---
+---
+
+@import "{{ site.theme }}";
+
+html, body {
+  background-color: #000000 !important;
+  color: #e6e6e6 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+a {
+  color: #58a6ff !important;
+}
+
+a:hover {
+  color: #79c0ff !important;
+}
+
+blockquote {
+  border-left-color: #444444 !important;
+  color: #cccccc !important;
+}
+
+table th, table td {
+  border-color: #333333 !important;
+}
+
+hr {
+  background-color: #333333 !important;
+}
+
+code {
+  background-color: #161b22 !important;
+  color: #e6e6e6 !important;
+}

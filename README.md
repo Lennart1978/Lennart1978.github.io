@@ -1,4 +1,4 @@
- <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48" />
+<link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48" />
 # Lennart Martens
 **Willkommen auf meiner persönlichen Homepage**
 
